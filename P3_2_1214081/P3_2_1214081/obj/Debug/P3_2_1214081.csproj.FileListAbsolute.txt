@@ -1,0 +1,8 @@
+C:\Users\asus ROG\source\repos\P3_2_1214081\P3_2_1214081\obj\Debug\P3_2_1214081.csproj.AssemblyReference.cache
+C:\Users\asus ROG\source\repos\P3_2_1214081\P3_2_1214081\obj\Debug\P3_2_1214081.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus ROG\source\repos\P3_2_1214081\P3_2_1214081\obj\Debug\P3_2_1214081.csproj.CoreCompileInputs.cache
+C:\Users\asus ROG\source\repos\P3_2_1214081\P3_2_1214081\bin\Debug\P3_2_1214081.exe.config
+C:\Users\asus ROG\source\repos\P3_2_1214081\P3_2_1214081\bin\Debug\P3_2_1214081.exe
+C:\Users\asus ROG\source\repos\P3_2_1214081\P3_2_1214081\bin\Debug\P3_2_1214081.pdb
+C:\Users\asus ROG\source\repos\P3_2_1214081\P3_2_1214081\obj\Debug\P3_2_1214081.exe
+C:\Users\asus ROG\source\repos\P3_2_1214081\P3_2_1214081\obj\Debug\P3_2_1214081.pdb
